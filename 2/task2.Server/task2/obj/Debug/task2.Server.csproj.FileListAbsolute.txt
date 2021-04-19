@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\bin\Debug\task2.exe.config
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\bin\Debug\task2.exe
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\bin\Debug\task2.pdb
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\obj\Debug\task2.Server.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\obj\Debug\task2.Server.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\obj\Debug\task2.exe
+C:\Users\HOME\Desktop\g\учёба\СЕТИ\NetTasks-master\NetTask2\task2.Server\task2\obj\Debug\task2.pdb

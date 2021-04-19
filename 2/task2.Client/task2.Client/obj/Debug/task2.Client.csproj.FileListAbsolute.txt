@@ -1,0 +1,7 @@
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\bin\Debug\task2.Client.exe.config
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\bin\Debug\task2.Client.exe
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\bin\Debug\task2.Client.pdb
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\obj\Debug\task2.Client.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\obj\Debug\task2.Client.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\obj\Debug\task2.Client.exe
+C:\Users\HOME\Desktop\СЕТИ\NetTasks-master\NetTask2\task2.Client\task2.Client\obj\Debug\task2.Client.pdb
